@@ -24,7 +24,6 @@
 .gitkeep
 
 # TS sources and compiled tests
-/ts/
 /js/tests/
 /test-fixtures/
 
